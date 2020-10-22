@@ -171,6 +171,7 @@ AutoTest.Net/
 
 # JetBrains Rider
 .idea/
+.idea/*
 
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
